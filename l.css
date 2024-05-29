@@ -1,0 +1,36 @@
+button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color:rgb(65, 128, 223);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  button:hover {background-color: #8e3e83}
+  
+  button:active {
+    background-color: #d9ff00;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+#tw{
+    background-color: rgba(0, 148, 44, 0);
+    display: inline-flex;
+}
+input{
+    padding:4px;
+    border-radius:12px;
+}
+#tamil{
+    background-color:rgb(247, 213, 149);
+    width:300px;
+    padding: auto;
+    border-radius:12px;
+}
